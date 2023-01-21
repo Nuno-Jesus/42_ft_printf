@@ -3,7 +3,16 @@ This project was graded <strong>110/100</strong>.
 
 
 ## 📒 **About**
-> You know the rules: if a function is not allowed, you can't use it. It sucks right? Well, this is your chance to implement printf()! You'll be able to use it in the following projects, alongside with the other functions you developed so far.
+You know the rules: if a function is not allowed, you can't use it. It sucks right? Well, this is your chance to implement printf()! You'll be able to use it in the following projects, alongside with the other functions you developed so far.
+
+## 🚨 **Disclaimer**
+At 42, the C projects are built following a bunch of rules that enforce good coding style. Some of them are:
+
+	- No for, do while, switch, case or goto are allowed
+	- No more than 25 lines per function and 5 functions per file
+	- No assigns and declarations in the same line (unless static)
+	- No more than 5 variables in 1 function
+	... 
 
 ## 🔧 **Implementation**
 > Unfortunately I implemented the bonus in the same files as the mandatory, so everything will be mixed up
